@@ -42,3 +42,4 @@ htmlcov/
 
 # Ultralytics runtime files
 runs/
+.env
